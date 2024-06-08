@@ -1,0 +1,2 @@
+# Simulating-Power-Plant-Emission-Reduction-Behavior-Under-California-s-Permit-Trading-Program
+An analysis of California's fossil-fueled power plants and their response to different emission policy and elasticity scenarios. The analysis involves behavioral simulations under market-driven cap-&amp;-trade and command-&amp;-control policies used for understanding the emission reduction behavior of fossil-fueled power plants.
