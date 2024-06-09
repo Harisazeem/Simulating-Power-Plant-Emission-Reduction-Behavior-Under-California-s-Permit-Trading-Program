@@ -27,7 +27,7 @@ QGIS, geopandas, Tableau, and Python's folium module are used for mapping purpos
 
 # Python Scripts
 
-1. [Filtering egrid.py]() filters national level data on plants and generators by fossil-fueled power plants in California. 
+1. [Filtering egrid.py](https://github.com/Harisazeem/Simulating-Power-Plant-Emission-Reduction-Behavior-Under-California-s-Permit-Trading-Program/blob/main/Filtering%20egrid.py) filters national level data on plants and generators by fossil-fueled power plants in California. 
 
 2. [Mapping plant-level data.py]() adds information on unused capacity and total possible annual generation for each power plant in California. It then reads and filters census files. It tests the spread of the power plant point location and imports demographic information for California's census tracts using an API call. 
 
