@@ -81,6 +81,6 @@ Fig 5. A snapshot of an interactive dashboard showing plant-level emission infor
 
 * The last finding becomes even more crucial from an EJ perspective given there are more small power plants at each DAC score than large power plants. However, no strong correlation could be found between overall DAC scores and total emissions. 
 
-Relevant stakeholders (individuals, firms, and policymakers) can easily use the dashboard to see how their specific census tracts would respond in terms of percentage emission reductions based on different policy and elasticity scenarios. 
+Relevant stakeholders (individuals, firms, and policymakers) can easily use the dashboard to see how their specific census tracts would behave in terms of percentage emission reductions based on different policy and elasticity scenarios. 
 
 
