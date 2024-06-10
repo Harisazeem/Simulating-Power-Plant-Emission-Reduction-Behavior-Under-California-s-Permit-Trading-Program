@@ -15,7 +15,7 @@ QGIS, geopandas, Tableau, and Python's folium module are used for mapping purpos
 
     1. Bigger polluters (those emitting more than 250k tons of Co2) have a higher elasticity of demand, and are therefore more responsive to the permit market demand curve, than smaller ones. This scenario also assumes that bigger polluters, with higher elasticities, have lower Marginal Abatement Cost curves (MACs). Under this assumption, a lower MAC translates into a higher elasticity because it is relatively less costly for the bigger polluter to reduce its own emissions. 
 
-    2. Bigger polluters have a lower elasticity of demand, and are therefore more responsive to changes in the permit market demand curve, than smaller ones. This scenario assumes that bigger polluters, with lower elasticities, have higher Marginal Abatement Cost curves (MACs).
+    2. Bigger polluters have a lower elasticity of demand, and are therefore less responsive to changes in the permit market demand curve, than smaller ones. This scenario assumes that bigger polluters, with lower elasticities, have higher Marginal Abatement Cost curves (MACs).
 
     3. All carbon-emitting power plants have the same elasticities of demand, and are thus equally responsive to price changes in the permit market. All polluters have the same MACs. 
 
