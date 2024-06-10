@@ -22,7 +22,7 @@
     <WorksheetBackgroundTransparency />
     <ZoneBackgroundTransparency />
   </document-format-change-manifest>
-  <repository-location id='SimulatingPermitTradingforCalisPowerPlantsUnderDifferentPolicyElasticityScenarios' path='/workbooks' revision='1.5' />
+  <repository-location id='SimulatingPermitTradingforCalisPowerPlantsUnderDifferentPolicyElasticityScenarios' path='/workbooks' revision='2.0' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -8306,7 +8306,7 @@ GEOID Power Plant Category: <[federated.0u21pv61vc5c63192o3kn12p4ga9].[none:Calc
       <layout-options>
         <title>
           <formatted-text>
-            <run fontalignment='1'>Æ                         </run>
+            <run fontalignment='1'>Æ                     </run>
             <run bold='true' fontalignment='1' fontsize='10'>Distribution of Power Plants by Tracts&apos; DAC Score</run>
           </formatted-text>
         </title>
@@ -8658,8 +8658,8 @@ GEOID Power Plant Category: <[federated.0u21pv61vc5c63192o3kn12p4ga9].[none:Calc
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1500' minheight='1500' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='118' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98400' id='117' param='vert' type-v2='layout-flow' w='98720' x='640' y='800'>
+            <zone h='100000' id='128' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98400' id='127' param='vert' type-v2='layout-flow' w='98720' x='640' y='800'>
                 <zone custom-title='true' h='8100' id='52' mode='compact' param='[Parameters].[Parameter 1]' type-v2='paramctrl' w='18320' x='1680' y='4600'>
                   <formatted-text>
                     <run>Policy Reduction Target</run>
@@ -8792,7 +8792,7 @@ GEOID Power Plant Category: <[federated.0u21pv61vc5c63192o3kn12p4ga9].[none:Calc
       <simple-id uuid='{3E0B8FDA-9936-4D74-8772-1F80027A0ED6}' />
     </dashboard>
   </dashboards>
-  <windows source-height='69'>
+  <windows show-side-pane='false' source-height='69'>
     <window class='worksheet' name='Emissions/DAC per Tract'>
       <cards>
         <edge name='left'>
@@ -9169,7 +9169,7 @@ GEOID Power Plant Category: <[federated.0u21pv61vc5c63192o3kn12p4ga9].[none:Calc
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='106' />
+      <active id='-1' />
       <device-preview visible='true'>
         <device is-portrait='false' type='Desktop' />
       </device-preview>
