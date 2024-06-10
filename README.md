@@ -61,7 +61,7 @@ Fig. 3
 This shows the spread of Plant nameplate capacity (MW) for all power plants in California using a historgram and a kernel density function.
 
 ![Census Tract Correlation Matrix](Census%20Tract%20Correlation%20Matrix.png) 
-Fig. 4
+  Fig. 4
 
 This is a correlation matrix for plant level data and census tract demographic information. The matrix could not locate a clear correlation between tract-level plant information and demographics of disadvantaged populations. A DAC score specific analysis can be conducted in the dashboard directly. 
 
