@@ -1,4 +1,4 @@
-# Simulating-Power-Plant-Emission-Reduction-Behavior-Under-California-Permit-Trading-Program
+# Simulating-Power-Plant-Emission-Reduction-Behavior-Under-California-Cap-&-Trader-Program
 This project provides an analysis of California's fossil-fueled power plants and their response to different emission policy and elasticity scenarios. It employs behavioral simulations, under cap-&-trade and command-&-control policies, which help understand the emission reduction behavior of individual power plants across census tracts—including those hosting Distadvantaged Communities (DACs)—in California.
 
 # Methodology and Data
